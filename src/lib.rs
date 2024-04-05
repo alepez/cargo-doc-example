@@ -1,5 +1,6 @@
-// Add the documentation from the README.md file to the crate root documentation
-#![doc = include_str!("../README.md")]
+//! An example crate for learning `cargo doc` and *GitHub Pages* can be integrated.
+//! Check out the [GitHub repository](https://github.com/alepez/cargo-doc-example) for more
+//! information.
 
 /// I needed something simple to put in the crate, just to see the generated
 /// documentation.
