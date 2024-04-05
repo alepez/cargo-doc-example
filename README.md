@@ -8,9 +8,9 @@ workflows and generation of *GitHub Pages*.
 - [This is an internal link to a md file][absolute-inner-page]
 - [This is an external website][external-website]
 
-[relative-inner-page]: doc/inner-page.md)
-[absolute-inner-page]: /doc/inner-page.md)
-[external-website]: https://alepez.dev)
+[relative-inner-page]: doc/inner-page.md
+[absolute-inner-page]: /doc/inner-page.md
+[external-website]: https://alepez.dev
 
 ## Enable GitHub Pages
 
