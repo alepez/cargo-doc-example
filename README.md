@@ -11,3 +11,14 @@ workflows and generation of *GitHub Pages*.
 [relative-inner-page]: doc/inner-page.md)
 [absolute-inner-page]: /doc/inner-page.md)
 [external-website]: https://alepez.dev)
+
+## Enable GitHub Pages
+
+This repo has *GitHub Pages* enabled. If you are cloning this repo, you need
+to enable it, otherwise the *doc* workflow will fail.
+
+To set up *GitHub Pages*:
+
+- Settings
+- Pages
+- Set "Source" to "GitHub Actions"
